@@ -9,6 +9,7 @@ In order to keep it simple, this program does not follow the official spec in RF
 
 ## Demo
 
+[![asciicast](https://asciinema.org/a/oBjkDptRGJcYiEp8sMAtmovxR.svg)](https://asciinema.org/a/oBjkDptRGJcYiEp8sMAtmovxR)
 
 ## Instructions
 
